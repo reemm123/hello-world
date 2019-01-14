@@ -1,6 +1,20 @@
 .title {
   background-position: fixe;
-	color:   #003d4d;
+	color: #003d4d;
 	font-family: sans-serif;
 }
+div {
+	text-align: justify;
+	text-justify: inter-word;
+	color: white;
+}
 
+body {
+	background-color: black;
+	font-size: 21px;
+}
+
+.pic {
+	margin-right: 10px;
+	margin-bottom; 10px;
+}
